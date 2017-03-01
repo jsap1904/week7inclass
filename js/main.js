@@ -34,8 +34,25 @@
 // 	console.log(i)
 // }
 
-var username = prompt("what is your name?")
+// var username = prompt("what is your name?")
 
-while(username != "matt"){
-	username = prompt('what is your name?')
-}
+// while(username != "matt"){
+// 	username = prompt('what is your name?')
+// }
+// var num1 = 1
+// var num2 = 2
+
+// function add(){
+// 	document.write(num1 + num2)
+// }
+
+// add();
+
+function add (num1, num2){
+	//after you fund the value, define this function as the result
+	return num1+num2
+}	
+
+var result = add(12,1);
+
+console.log(result)
