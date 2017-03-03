@@ -48,11 +48,11 @@
 
 // add();
 
-function add (num1, num2){
-	//after you fund the value, define this function as the result
-	return num1+num2
-}	
+// function add (num1, num2){
+// 	//after you fund the value, define this function as the result
+// 	return num1+num2
+// }	
 
-var result = add(12,1);
+// var result = add(12,1);
 
-console.log(result)
+// console.log(result)
