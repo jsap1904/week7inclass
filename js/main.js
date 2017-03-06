@@ -1,9 +1,9 @@
-//shows up on console
-//console.log("herro world")
-//shows on web page
-//document.write("herro world on doc")
+// shows up on console
+// console.log("herro world")
+// shows on web page
+// document.write("herro world on doc")
 
-//var username = prompt("what is your name?")
+// var username = prompt("what is your name?")
 
 // //console.log(username)
 // //numbers
@@ -42,12 +42,6 @@
 // var num1 = 1
 // var num2 = 2
 
-// function add(){
-// 	document.write(num1 + num2)
-// }
-
-// add();
-
 // function add (num1, num2){
 // 	//after you fund the value, define this function as the result
 // 	return num1+num2
@@ -55,4 +49,9 @@
 
 // var result = add(12,1);
 
-// console.log(result)
+// console.log(result)function add(){
+// 	document.write(num1 + num2)
+// }
+
+// add();
+
